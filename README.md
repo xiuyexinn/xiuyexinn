@@ -9,7 +9,7 @@
   <p>Hi, You can call me <strong style="font-family: "Pixelify Sans", sans-serif; color: #8c00ff">Rixie</strong>!</p>
 
   <!-- Pixel cat gif (sleeping cat) -->
-  <img src="assets/catsleep.gif" width="200" height="180"/>
+  <!--<img src="assets/catsleep.gif" width="200" height="180"/>-->
   ![cat](assets/catsleep.gif)
 
   <br/>
