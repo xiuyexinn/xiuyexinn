@@ -10,6 +10,7 @@
 
   <!-- Pixel cat gif (sleeping cat) -->
   <img src="assets/catsleep.gif" width="200" height="180"/>
+  ![cat](catsleep.gif)
 
   <br/>
   <p>meow ♡</p>
